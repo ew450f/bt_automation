@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Security Automation for the Blue Team
 
 You can use the [editor on GitHub](https://github.com/ewaters99/bt_automation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
